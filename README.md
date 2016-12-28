@@ -1,4 +1,4 @@
-# Pokemon Go Playground - based on the Predic'em All dataset on Kaggle
+# Pokemon Go Playground - based on the Predict'em All dataset on Kaggle
 
 ## Overview
 
